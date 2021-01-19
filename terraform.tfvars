@@ -1,0 +1,5 @@
+project  = "terraform-webapp"
+image    = "eu.gcr.io/terraform-webapp/app"
+region   = "us-central1"
+location = "us-central1"
+zone     = "us-central1-c"
