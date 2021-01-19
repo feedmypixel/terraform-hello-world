@@ -1,0 +1,21 @@
+{
+  "name": "next-js",
+  "version": "0.1.0",
+  "description": "A hello world using Terraform, Google Cloud Platform, Next.js and Docker",
+  "author": "feedMyPixel Ltd.",
+  "engines": {
+    "node": ">=14.13.0",
+    "npm": ">=6.14.11"
+  },
+  "contributors": "Ben Chidgey <ben@feedmypixel.com> (https://github.com/feedmypixel)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.5",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
